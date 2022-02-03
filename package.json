@@ -15,7 +15,15 @@
   "author": "Tonatiuj Sánchez <tonatiujdev@gmail.com>",
   "license": "MIT",
   "bin": {
-    "randomts-msg": "./bin/global.js"
+    "randomts-msg": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tonatiujsanchez/randomts-message.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tonatiujsanchez/randomts-message/issues"
+  },
+  "homepage": "https://github.com/tonatiujsanchez/randomts-message#readme"
 }
